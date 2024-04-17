@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Good-Books/static/css/main.030a0e49.css",
+    "main.js": "/Good-Books/static/js/main.d292f064.js",
+    "static/js/453.63964b70.chunk.js": "/Good-Books/static/js/453.63964b70.chunk.js",
+    "static/media/books.png": "/Good-Books/static/media/books.24cd439ff809c2f08eaf.png",
+    "index.html": "/Good-Books/index.html",
+    "main.030a0e49.css.map": "/Good-Books/static/css/main.030a0e49.css.map",
+    "main.d292f064.js.map": "/Good-Books/static/js/main.d292f064.js.map",
+    "453.63964b70.chunk.js.map": "/Good-Books/static/js/453.63964b70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.030a0e49.css",
+    "static/js/main.d292f064.js"
+  ]
+}
